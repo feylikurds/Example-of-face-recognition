@@ -7,7 +7,7 @@ Example of face recognition using machine/deep learning
 The source code can be downloaded as a Jupyter notebook or Python.
 
 ## Purpose
-To show others an example of machine/deep-learning.
+To show others an example of machine/deep learning.
 
 ## License
 Copyright (c) 2023 Aryo Pehlewan aryopehlewan@hotmail.com 
